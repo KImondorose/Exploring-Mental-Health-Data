@@ -42,28 +42,28 @@ Our approach to the competition will include the following steps:
 
 Note: We use Optuna for finding best hyperparameter for that we use another notebook and we are only pasting best hyperparameter here. Best Model is Catboost with default hyperparameter
 
-**📊 Dataset Overview: Understanding Depression Risk Factors among Adults**
-**📝 Dataset Context**
-**📌 Feature Descriptions**
+**📊 Dataset Overview: Understanding Depression Risk Factors among Adults**  
+**📝 Dataset Context**  
+**📌 Feature Descriptions**  
 
 1. 👤 Name- Participant's name.
-2. 🚻 Gender	Participant's gender (Male/Female).
-3. 🎂 Age	Participant's age (18-60).
-4. 🏙️ City	Participant's city of residence.
-5. 👔 Working Professional or Student	Indicates whether the participant is a working professional or a student.
-6. 💼 Profession	Participant's current profession.
-7. 📚 Academic Pressure	Level of academic workload, rated on a scale from 1 to 5.
-8. 📈 Work Pressure	Level of work-related workload, rated on a scale from 1 to 5.
-9. 🎓 CGPA	Cumulative Grade Point Average.
-10. 📖 Study Satisfaction	Satisfaction level with studies, rated on a scale from 1 to 5.
-11. 💼 Job Satisfaction	Satisfaction level with job, rated on a scale from 1 to 5.
-12. 🛏️ Sleep Duration	Average hours of sleep per night.
-13. 🍲 Dietary Habits	Information about participant’s eating habits.
-14. 🎓 Degree	Highest degree or qualification obtained by the participant.
-15. 🧠 Have you ever had suicidal thoughts?	Indicates if the participant has had suicidal thoughts (Yes/No).
-16. ⏰ Work/Study Hours	Average daily hours spent on work or study.
-17. 💵 Financial Stress	Level of financial stress, rated on a scale from 1 to 5.
-18. 👪 Family History of Mental Illness	Indicates if there is a family history of mental illness (Yes/No).
-19. 🩺 Depression	Represents whether the participant is at risk of depression (Yes/No), based on lifestyle and demographic factors.
+2. 🚻 Gender- Participant's gender (Male/Female).
+3. 🎂 Age-Participant's age (18-60).
+4. 🏙️ City- Participant's city of residence.
+5. 👔 Working Professional or Student- Indicates whether the participant is a working professional or a student.
+6. 💼 Profession- Participant's current profession.
+7. 📚 Academic Pressure- Level of academic workload, rated on a scale from 1 to 5.
+8. 📈 Work Pressure- Level of work-related workload, rated on a scale from 1 to 5.
+9. 🎓 CGPA- Cumulative Grade Point Average.
+10. 📖 Study Satisfaction- Satisfaction level with studies, rated on a scale from 1 to 5.
+11. 💼 Job Satisfaction- Satisfaction level with job, rated on a scale from 1 to 5.
+12. 🛏️ Sleep Duration- Average hours of sleep per night.
+13. 🍲 Dietary Habits- Information about participant’s eating habits.
+14. 🎓 Degree- Highest degree or qualification obtained by the participant.
+15. 🧠 Have you ever had suicidal thoughts?- Indicates if the participant has had suicidal thoughts (Yes/No).
+16. ⏰ Work/Study Hours- Average daily hours spent on work or study.
+17. 💵 Financial Stress- Level of financial stress, rated on a scale from 1 to 5.
+18. 👪 Family History of Mental Illness- Indicates if there is a family history of mental illness (Yes/No).
+19. 🩺 Depression- Represents whether the participant is at risk of depression (Yes/No), based on lifestyle and demographic factors.
 
 Each feature is essential for understanding various lifestyle and environmental factors that may influence depression risk. The dataset could be used in predictive modeling, trend analysis, and further research on mental health and wellness interventions.
